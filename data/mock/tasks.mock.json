@@ -1,0 +1,57 @@
+[
+  {
+    "id": "t1",
+    "titre": "Acheter pass internet MTN 5 Go",
+    "description": "Nécessaire pour le cours d'anglais et le travail de freelance ce soir.",
+    "dateEcheance": "2026-07-02",
+    "heureRappel": "10:00",
+    "recurrence": "hebdomadaire",
+    "statut": "a_faire",
+    "priorite": "haute",
+    "createdAt": "2026-07-01T08:00:00.000Z"
+  },
+  {
+    "id": "t2",
+    "titre": "Préparer pitch pour le Side Hustle",
+    "description": "Présentation du projet de livraison de repas à domicile devant des amis ce weekend.",
+    "dateEcheance": "2026-07-04",
+    "heureRappel": "18:00",
+    "recurrence": "aucune",
+    "statut": "en_cours",
+    "priorite": "moyenne",
+    "createdAt": "2026-07-01T09:15:00.000Z"
+  },
+  {
+    "id": "t3",
+    "titre": "Appeler le trésorier de la tontine",
+    "description": "Confirmer que le virement Orange Money a bien été reçu pour le tour de ce mois.",
+    "dateEcheance": "2026-07-01",
+    "heureRappel": "15:00",
+    "recurrence": "aucune",
+    "statut": "terminee",
+    "priorite": "haute",
+    "createdAt": "2026-07-01T07:30:00.000Z"
+  },
+  {
+    "id": "t4",
+    "titre": "Ranger la chambre & réviser cours de React",
+    "description": "Suivre le chapitre 4 sur les Hooks avancés.",
+    "dateEcheance": "2026-07-01",
+    "heureRappel": "20:00",
+    "recurrence": "aucune",
+    "statut": "terminee",
+    "priorite": "basse",
+    "createdAt": "2026-07-01T12:00:00.000Z"
+  },
+  {
+    "id": "t5",
+    "titre": "Faire le sport (30 min jogging)",
+    "description": "Courir autour du stade de la commune.",
+    "dateEcheance": "2026-07-02",
+    "heureRappel": "06:30",
+    "recurrence": "quotidienne",
+    "statut": "a_faire",
+    "priorite": "moyenne",
+    "createdAt": "2026-07-01T17:00:00.000Z"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "tr1",
+    "type": "revenu",
+    "montant": 45000,
+    "categorie": "freelance",
+    "date": "2026-07-01",
+    "note": "Paiement création logo salon de coiffure"
+  },
+  {
+    "id": "tr2",
+    "type": "depense",
+    "montant": 1500,
+    "categorie": "transport",
+    "date": "2026-07-01",
+    "note": "Trajet Yopougon - Plateau en Wôrô-wôrô"
+  },
+  {
+    "id": "tr3",
+    "type": "depense",
+    "montant": 3500,
+    "categorie": "nourriture",
+    "date": "2026-07-01",
+    "note": "Garba chez le Haoussa + Boisson"
+  },
+  {
+    "id": "tr4",
+    "type": "depense",
+    "montant": 5000,
+    "categorie": "forfait_internet",
+    "date": "2026-06-30",
+    "note": "Forfait mensuel Moov 6Go"
+  },
+  {
+    "id": "tr5",
+    "type": "depense",
+    "montant": 10000,
+    "categorie": "tontine",
+    "date": "2026-06-28",
+    "note": "Tontine des anciens du lycée"
+  },
+  {
+    "id": "tr6",
+    "type": "revenu",
+    "montant": 25000,
+    "categorie": "famille",
+    "date": "2026-06-25",
+    "note": "Soutien mensuel du grand frère"
+  },
+  {
+    "id": "tr7",
+    "type": "depense",
+    "montant": 6000,
+    "categorie": "loisirs",
+    "date": "2026-06-29",
+    "note": "Soirée maquis avec les potes"
+  }
+]

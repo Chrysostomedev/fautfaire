@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c1",
+    "titre": "Gère ton budget avec la règle des 50/30/20",
+    "texte": "Consacre 50% de tes revenus à tes besoins essentiels (loyer, gbaka/transport, nourriture de base), 30% à tes plaisirs (sorties, maquis, loisirs) et épargne systématiquement 20% pour tes projets futurs ou urgences.",
+    "categorie": "finances"
+  },
+  {
+    "id": "c2",
+    "titre": "Investis en toi avant tout",
+    "texte": "Plutôt que d'acheter le dernier smartphone à la mode, utilise cet argent pour acheter un forfait internet et suivre des formations en ligne (code, marketing, gestion de projet). C'est le meilleur retour sur investissement.",
+    "categorie": "developpement"
+  },
+  {
+    "id": "c3",
+    "titre": "La tontine : outil d'épargne forcée",
+    "texte": "Participer à une tontine de confiance est un excellent moyen de s'imposer une discipline d'épargne mensuelle. Assure-toi juste que les membres sont fiables !",
+    "categorie": "finances"
+  },
+  {
+    "id": "c4",
+    "titre": "Évite les pièges du crédit à la consommation",
+    "texte": "N'emprunte jamais d'argent pour des dépenses de plaisir (vêtements de marque, soirées). N'emprunte que si cet argent va générer un revenu (achat de matériel pour ton activité freelance).",
+    "categorie": "finances"
+  },
+  {
+    "id": "c5",
+    "titre": "Crée ton 'Side Hustle'",
+    "texte": "Ne compte pas sur une seule source de revenus. Utilise tes compétences (rédaction, design, traduction, revente) pour lancer une petite activité secondaire après tes cours ou ton travail.",
+    "categorie": "entrepreneuriat"
+  },
+  {
+    "id": "c6",
+    "titre": "Défini des micro-objectifs",
+    "texte": "Au lieu de te dire 'Je veux être riche', fixe-toi des objectifs clairs et mesurables : 'Je veux épargner 50 000 FCFA ce mois-ci' ou 'Je veux valider 3 tâches par jour'. La régularité crée le succès.",
+    "categorie": "discipline"
+  },
+  {
+    "id": "c7",
+    "titre": "Fais ton bilan chaque soir",
+    "texte": "Prendre 5 minutes chaque soir pour évaluer ta journée te permet de voir tes progrès, de rester honnête avec toi-même et de planifier efficacement le lendemain.",
+    "categorie": "discipline"
+  },
+  {
+    "id": "c8",
+    "titre": "Le réseau est ta véritable richesse",
+    "texte": "Assiste à des meetups tech, des conférences locales et échange sur LinkedIn. Les opportunités de stage et de freelance naissent des relations que tu construis.",
+    "categorie": "leadership"
+  },
+  {
+    "id": "c9",
+    "titre": "Protège ta santé physique et mentale",
+    "texte": "Bois de l'eau, dors suffisamment et fais du sport. Une ambition débordante nécessite un corps en bonne santé pour la soutenir.",
+    "categorie": "discipline"
+  },
+  {
+    "id": "c10",
+    "titre": "Apprends à dire non",
+    "texte": "Tu n'as pas besoin de participer à toutes les sorties ou d'aider financièrement au-delà de tes moyens. Ta priorité actuelle est de te construire une sécurité financière.",
+    "categorie": "discipline"
+  }
+]

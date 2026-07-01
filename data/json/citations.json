@@ -1,0 +1,802 @@
+[
+  {
+    "id": "q1",
+    "texte": "On peut tuer un homme, mais pas ses idées.",
+    "auteur": "Thomas Sankara",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q2",
+    "texte": "L'esclave qui n'est pas capable d'assumer sa révolte ne mérite pas que l'on s'apitoie sur son sort.",
+    "auteur": "Thomas Sankara",
+    "origine": "afrique",
+    "domaine": ["resilience", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q3",
+    "texte": "Produisons ce dont nous avons besoin et consommons ce que nous produisons.",
+    "auteur": "Thomas Sankara",
+    "origine": "afrique",
+    "domaine": ["leadership", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q4",
+    "texte": "Stay hungry, stay foolish.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "en"
+  },
+  {
+    "id": "q5",
+    "texte": "Votre temps est limité, ne le gâchez pas en menant une existence qui n'est pas la vôtre.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["discipline", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q6",
+    "texte": "Si vous n'avez pas de rêve, quelqu'un d'autre vous embauchera pour construire le sien.",
+    "auteur": "Tony Elumelu",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q7",
+    "texte": "Personne ne développera l'Afrique à notre place. Nous devons prendre notre destin en main.",
+    "auteur": "Tony Elumelu",
+    "origine": "afrique",
+    "domaine": ["leadership", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q8",
+    "texte": "Le travail acharné bat le talent quand le talent ne travaille pas dur.",
+    "auteur": "Aliko Dangote",
+    "origine": "afrique",
+    "domaine": ["discipline", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q9",
+    "texte": "Je n'ai pas de raccourcis à offrir. Seuls le travail acharné, l'honnêteté et la persévérance mènent au succès.",
+    "auteur": "Aliko Dangote",
+    "origine": "afrique",
+    "domaine": ["discipline", "entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q10",
+    "texte": "Le jour où vous arrêtez d'apprendre est le jour où vous commencez à stagner.",
+    "auteur": "Aliko Dangote",
+    "origine": "afrique",
+    "domaine": ["innovation", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q11",
+    "texte": "L'Afrique n'a pas besoin de charité, elle a besoin d'investissements et de partenariats solides.",
+    "auteur": "Strive Masiyiwa",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q12",
+    "texte": "L'opportunité ne frappe pas à la porte, elle se présente lorsque vous commencez à creuser.",
+    "auteur": "Strive Masiyiwa",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q13",
+    "texte": "Le courage n'est pas l'absence de peur, mais la capacité de vaincre la peur afin d'avancer.",
+    "auteur": "Nelson Mandela",
+    "origine": "afrique",
+    "domaine": ["resilience", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q14",
+    "texte": "Cela semble toujours impossible jusqu'à ce que ce soit fait.",
+    "auteur": "Nelson Mandela",
+    "origine": "afrique",
+    "domaine": ["resilience", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q15",
+    "texte": "L'éducation est l'arme la plus puissante qu'on puisse utiliser pour changer le monde.",
+    "auteur": "Nelson Mandela",
+    "origine": "afrique",
+    "domaine": ["leadership", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q16",
+    "texte": "Si vous voulez aller vite, allez-y seul. Si vous voulez aller loin, allez-y ensemble.",
+    "auteur": "Proverbe Africain",
+    "origine": "afrique",
+    "domaine": ["leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q17",
+    "texte": "L'arbre qui tombe fait plus de bruit que la forêt qui pousse.",
+    "auteur": "Proverbe Africain",
+    "origine": "afrique",
+    "domaine": ["resilience", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q18",
+    "texte": "Là où l'eau coule, la terre finit par reverdir. Persévérez.",
+    "auteur": "Proverbe Africain",
+    "origine": "afrique",
+    "domaine": ["resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q19",
+    "texte": "Le plus grand risque est de n'en prendre aucun. Dans un monde qui change rapidement, la seule stratégie qui échouera est de ne pas prendre de risques.",
+    "auteur": "Mark Zuckerberg",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q20",
+    "texte": "Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.",
+    "auteur": "Mark Zuckerberg",
+    "origine": "tech",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "en"
+  },
+  {
+    "id": "q21",
+    "texte": "Lorsque quelque chose est assez important, vous le faites même si les chances ne sont pas en votre faveur.",
+    "auteur": "Elon Musk",
+    "origine": "tech",
+    "domaine": ["resilience", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q22",
+    "texte": "L'échec est une option ici. Si les choses n'échouent pas, vous n'innovez pas assez.",
+    "auteur": "Elon Musk",
+    "origine": "tech",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q23",
+    "texte": "La persistance est très importante. Vous ne devez pas abandonner à moins d'y être forcé.",
+    "auteur": "Elon Musk",
+    "origine": "tech",
+    "domaine": ["resilience", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q24",
+    "texte": "Le succès est un mauvais enseignant. Il pousse les gens intelligents à croire qu'ils ne peuvent pas perdre.",
+    "auteur": "Bill Gates",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q25",
+    "texte": "Nous sous-estimons toujours le changement qui se produira dans les dix prochaines années. Ne vous laissez pas bercer par l'inaction.",
+    "auteur": "Bill Gates",
+    "origine": "tech",
+    "domaine": ["innovation", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q26",
+    "texte": "Ne vous excusez jamais de prendre de la place dans ce monde.",
+    "auteur": "Chimamanda Ngozi Adichie",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q27",
+    "texte": "L'histoire de l'Afrique doit être écrite par les Africains eux-mêmes.",
+    "auteur": "Chimamanda Ngozi Adichie",
+    "origine": "afrique",
+    "domaine": ["leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q28",
+    "texte": "C'est dans les petits gestes quotidiens que se trouve la véritable révolution.",
+    "auteur": "Wangari Maathai",
+    "origine": "afrique",
+    "domaine": ["discipline", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q29",
+    "texte": "Nous devons panser les plaies de la Terre, et ce faisant, nous panserons nos propres plaies.",
+    "auteur": "Wangari Maathai",
+    "origine": "afrique",
+    "domaine": ["resilience", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q30",
+    "texte": "L'industrie technologique est un outil puissant pour surmonter les frontières géographiques de l'Afrique.",
+    "auteur": "Rebecca Enonchong",
+    "origine": "afrique",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q31",
+    "texte": "N'attendez pas que les conditions soient parfaites pour commencer. Commencer rend les conditions parfaites.",
+    "auteur": "Rebecca Enonchong",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q32",
+    "texte": "On ne peut pas bâtir une économie forte sans une jeunesse éduquée, disciplinée et ambitieuse.",
+    "auteur": "Patrice Motsepe",
+    "origine": "afrique",
+    "domaine": ["discipline", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q33",
+    "texte": "Le partenariat public-privé et l'esprit d'entreprise sont les clés du décollage économique de notre continent.",
+    "auteur": "Patrice Motsepe",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q34",
+    "texte": "Nous ne voulons pas de l'aide internationale, nous voulons du commerce équitable et de l'investissement.",
+    "auteur": "Kwame Nkrumah",
+    "origine": "afrique",
+    "domaine": ["leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q35",
+    "texte": "L'Afrique est un paradoxe : un continent immensément riche habité par des populations pauvres. Changeons cela par l'action.",
+    "auteur": "Kwame Nkrumah",
+    "origine": "afrique",
+    "domaine": ["leadership", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q36",
+    "texte": "L'innovation, c'est ce qui distingue un leader d'un suiveur.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["innovation", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q37",
+    "texte": "Chaque problème en Afrique est une opportunité commerciale déguisée.",
+    "auteur": "Strive Masiyiwa",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q38",
+    "texte": "La technologie n'est rien. Ce qui est important, c'est que vous ayez foi dans les gens, qu'ils soient fondamentalement bons et intelligents.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["leadership", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q39",
+    "texte": "Votre travail va occuper une grande partie de votre vie, et la seule façon d'être pleinement satisfait est de faire ce que vous croyez être un grand travail.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["discipline", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q40",
+    "texte": "La seule façon de faire du bon travail est d'aimer ce que vous faites.",
+    "auteur": "Steve Jobs",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q41",
+    "texte": "La technologie est l'égaliseur ultime. Elle permet à un jeune à Abidjan de rivaliser avec un jeune à Silicon Valley.",
+    "auteur": "Tidjane Thiam",
+    "origine": "afrique",
+    "domaine": ["innovation", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q42",
+    "texte": "La rigueur mathématique et l'analyse de données sont indispensables pour piloter n'importe quel projet ou pays.",
+    "auteur": "Tidjane Thiam",
+    "origine": "afrique",
+    "domaine": ["discipline", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q43",
+    "texte": "Un leader n'impose pas ses idées. Il écoute, synthétise, puis décide avec clarté.",
+    "auteur": "Tidjane Thiam",
+    "origine": "afrique",
+    "domaine": ["leadership", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q44",
+    "texte": "L'Afrique doit cesser d'exporter ses matières premières brutes. Nous devons créer de la valeur localement.",
+    "auteur": "Akinwumi Adesina",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q45",
+    "texte": "L'agriculture n'est pas une activité de subsistance, c'est un business. Et c'est là que se trouvent les futurs millionnaires d'Afrique.",
+    "auteur": "Akinwumi Adesina",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q46",
+    "texte": "L'avenir des jeunes d'Afrique ne se trouve pas au fond de la mer Méditerranée, mais dans une Afrique prospère.",
+    "auteur": "Akinwumi Adesina",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q47",
+    "texte": "Be you, and be proud of your identity. Never shrink yourself to make others comfortable.",
+    "auteur": "Chimamanda Ngozi Adichie",
+    "origine": "afrique",
+    "domaine": ["resilience", "leadership"],
+    "langue": "en"
+  },
+  {
+    "id": "q48",
+    "texte": "Le changement ne viendra pas si nous attendons une autre personne ou un autre moment. Nous sommes ceux que nous attendions.",
+    "auteur": "Barack Obama",
+    "origine": "les_deux",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q49",
+    "texte": "L'audace d'espérer est ce qui nous pousse à surmonter les obstacles les plus sombres.",
+    "auteur": "Barack Obama",
+    "origine": "les_deux",
+    "domaine": ["resilience", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q50",
+    "texte": "Ne jugez pas chaque journée par votre récolte, mais par les graines que vous avez semées.",
+    "auteur": "Robert Louis Stevenson",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q51",
+    "texte": "La discipline est le pont entre vos buts et vos réalisations.",
+    "auteur": "Jim Rohn",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q52",
+    "texte": "Si vous faites ce que vous avez toujours fait, vous obtiendrez ce que vous avez toujours obtenu.",
+    "auteur": "Tony Robbins",
+    "origine": "tech",
+    "domaine": ["discipline", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q53",
+    "texte": "L'innovation n'est pas le fruit du hasard. C'est le résultat d'une recherche constante d'amélioration.",
+    "auteur": "Satya Nadella",
+    "origine": "tech",
+    "domaine": ["innovation", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q54",
+    "texte": "Notre industrie ne respecte pas la tradition. Elle ne respecte que l'innovation.",
+    "auteur": "Satya Nadella",
+    "origine": "tech",
+    "domaine": ["innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q55",
+    "texte": "Le secret du changement est de concentrer toute votre énergie non pas sur la lutte contre le passé, mais sur la construction du futur.",
+    "auteur": "Socrate",
+    "origine": "afrique",
+    "domaine": ["innovation", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q56",
+    "texte": "La seule façon de prédire l'avenir est de l'inventer.",
+    "auteur": "Alan Kay",
+    "origine": "tech",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q57",
+    "texte": "L'Afrique de demain sera bâtie par des entrepreneurs, pas par des gouvernements.",
+    "auteur": "Fred Swaniker",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q58",
+    "texte": "Nous ne formons pas seulement des diplômés, nous formons des leaders capables de résoudre les problèmes de l'Afrique.",
+    "auteur": "Fred Swaniker",
+    "origine": "afrique",
+    "domaine": ["leadership", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q59",
+    "texte": "Si votre rêve ne vous effraie pas, c'est qu'il est trop petit.",
+    "auteur": "Ellen Johnson Sirleaf",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q60",
+    "texte": "Les femmes en Afrique sont l'épine dorsale de l'économie. Libérons leur potentiel entrepreneurial.",
+    "auteur": "Ellen Johnson Sirleaf",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q61",
+    "texte": "La résilience est la capacité d'aller d'échec en échec sans perdre son enthousiasme.",
+    "auteur": "Winston Churchill",
+    "origine": "tech",
+    "domaine": ["resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q62",
+    "texte": "L'esprit critique et la remise en question sont les moteurs de la science et du progrès.",
+    "auteur": "Cheikh Anta Diop",
+    "origine": "afrique",
+    "domaine": ["innovation", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q63",
+    "texte": "La jeunesse africaine doit s'armer de science et de technologie jusqu'aux dents pour relever les défis futurs.",
+    "auteur": "Cheikh Anta Diop",
+    "origine": "afrique",
+    "domaine": ["innovation", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q64",
+    "texte": "If you don't build your own dream, someone else will hire you to build theirs.",
+    "auteur": "Tony Elumelu",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat"],
+    "langue": "en"
+  },
+  {
+    "id": "q65",
+    "texte": "La pauvreté n'est pas une fatalité, c'est une absence de choix et d'opportunités. Créez ces choix.",
+    "auteur": "Muhammad Yunus",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q66",
+    "texte": "Le microcrédit et l'entrepreneuriat social sont des leviers majeurs pour autonomiser les communautés.",
+    "auteur": "Muhammad Yunus",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q67",
+    "texte": "La plus grande erreur que l'on puisse faire est d'avoir peur d'en faire une.",
+    "auteur": "Elbert Hubbard",
+    "origine": "tech",
+    "domaine": ["resilience", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q68",
+    "texte": "Les idées ne valent rien sans exécution. L'exécution est la clé de tout projet réussi.",
+    "auteur": "Derek Sivers",
+    "origine": "tech",
+    "domaine": ["discipline", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q69",
+    "texte": "La discipline est le carburant de la consistance. Sans consistance, aucun talent ne peut s'exprimer.",
+    "auteur": "Denzel Washington",
+    "origine": "tech",
+    "domaine": ["discipline", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q70",
+    "texte": "Vous n'avez pas besoin d'avoir raison 100% du temps. Vous devez juste avoir raison de manière spectaculaire une fois.",
+    "auteur": "Sam Altman",
+    "origine": "tech",
+    "domaine": ["innovation", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q71",
+    "texte": "L'intelligence artificielle est un outil. La véritable intelligence réside dans la façon dont nous l'utilisons pour aider les humains.",
+    "auteur": "Sam Altman",
+    "origine": "tech",
+    "domaine": ["innovation", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q72",
+    "texte": "La vitesse d'itération est l'avantage le plus crucial pour une start-up. Apprenez et adaptez-vous vite.",
+    "auteur": "Sam Altman",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q73",
+    "texte": "La tontine est un puissant mécanisme d'épargne solidaire. Modernisons-la avec la tech.",
+    "auteur": "Fintech Ivoirienne",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q74",
+    "texte": "Chaque franc CFA épargné aujourd'hui est une brique pour construire votre liberté de demain.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q75",
+    "texte": "Ne dépensez pas ce qui reste après l'épargne, mais épargnez ce qui reste après la dépense.",
+    "auteur": "Warren Buffett",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q76",
+    "texte": "Le prix est ce que vous payez. La valeur est ce que vous obtenez.",
+    "auteur": "Warren Buffett",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q77",
+    "texte": "N'investissez jamais dans un business que vous ne comprenez pas.",
+    "auteur": "Warren Buffett",
+    "origine": "tech",
+    "domaine": ["discipline", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q78",
+    "texte": "Le maquis c'est bien, mais investir dans son forfait de formation en ligne c'est mieux.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["discipline", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q79",
+    "texte": "Le gbaka ou le wôrô-wôrô du matin est fatigant, mais c'est le prix à payer pour arriver là où les autres dorment encore.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["resilience", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q80",
+    "texte": "Ne comparez pas votre début avec le milieu de quelqu'un d'autre. Chacun a son rythme.",
+    "auteur": "Jon Acuff",
+    "origine": "tech",
+    "domaine": ["resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q81",
+    "texte": "L'innovation n'est pas de faire des choses compliquées, mais de simplifier ce qui est complexe.",
+    "auteur": "Yelen",
+    "origine": "tech",
+    "domaine": ["innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q82",
+    "texte": "La seule façon de sortir de la pauvreté est de créer de la richesse, pas de la redistribuer.",
+    "auteur": "Tony Elumelu",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q83",
+    "texte": "Chaque échec vous rapproche de la réussite si vous prenez le temps d'apprendre la leçon.",
+    "auteur": "Strive Masiyiwa",
+    "origine": "afrique",
+    "domaine": ["resilience", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q84",
+    "texte": "Le leadership n'est pas une question de titre ou de position, c'est une question d'influence et d'exemple.",
+    "auteur": "Nelson Mandela",
+    "origine": "afrique",
+    "domaine": ["leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q85",
+    "texte": "La discipline d'aujourd'hui construit les options de demain.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q86",
+    "texte": "Your reputation is more important than your bank account. In business, trust is the ultimate currency.",
+    "auteur": "Aliko Dangote",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "en"
+  },
+  {
+    "id": "q87",
+    "texte": "Rien de grand dans ce monde n'a été accompli sans passion et sans une discipline de fer.",
+    "auteur": "Georg Wilhelm Friedrich Hegel",
+    "origine": "tech",
+    "domaine": ["discipline", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q88",
+    "texte": "L'innovation sociale est tout aussi importante que l'innovation technologique pour le progrès de l'humanité.",
+    "auteur": "Wangari Maathai",
+    "origine": "afrique",
+    "domaine": ["innovation", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q89",
+    "texte": "La meilleure façon d'aider les pauvres est de ne pas être l'un d'entre eux. Créez des emplois.",
+    "auteur": "Tony Elumelu",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q90",
+    "texte": "Si vous voulez avoir du succès, vous devez d'abord décider de ce que vous voulez et ensuite travailler sans relâche.",
+    "auteur": "Aliko Dangote",
+    "origine": "afrique",
+    "domaine": ["discipline", "entrepreneuriat"],
+    "langue": "fr"
+  },
+  {
+    "id": "q91",
+    "texte": "L'échec n'est pas le contraire de la réussite, c'est une étape vers elle.",
+    "auteur": "Arianna Huffington",
+    "origine": "tech",
+    "domaine": ["resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q92",
+    "texte": "La créativité consiste à voir ce que tout le monde voit et à penser ce que personne n'a pensé.",
+    "auteur": "Albert Szent-Györgyi",
+    "origine": "tech",
+    "domaine": ["innovation"],
+    "langue": "fr"
+  },
+  {
+    "id": "q93",
+    "texte": "La jeunesse doit comprendre qu'elle est l'architecte de sa propre destinée.",
+    "auteur": "Kwame Nkrumah",
+    "origine": "afrique",
+    "domaine": ["leadership", "discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q94",
+    "texte": "L'afropre उत्सुकता et l'optimisme doivent remplacer le pessimisme historique.",
+    "auteur": "Strive Masiyiwa",
+    "origine": "afrique",
+    "domaine": ["entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q95",
+    "texte": "Le secret du succès réside dans les habitudes que vous développez chaque jour.",
+    "auteur": "John C. Maxwell",
+    "origine": "tech",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q96",
+    "texte": "La liberté financière n'est pas d'avoir beaucoup d'argent, mais d'avoir le contrôle de son temps.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["discipline"],
+    "langue": "fr"
+  },
+  {
+    "id": "q97",
+    "texte": "L'esprit d'entreprise, c'est vivre quelques années de sa vie comme la plupart des gens ne le feront pas, afin de passer le reste comme la plupart ne le peuvent pas.",
+    "auteur": "Inconnu",
+    "origine": "tech",
+    "domaine": ["entrepreneuriat", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q98",
+    "texte": "Un intellectuel qui ne se bat pas pour la justice de son peuple est un traître à sa propre cause.",
+    "auteur": "Thomas Sankara",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience"],
+    "langue": "fr"
+  },
+  {
+    "id": "q99",
+    "texte": "L'indépendance politique n'est rien sans l'indépendance économique.",
+    "auteur": "Kwame Nkrumah",
+    "origine": "afrique",
+    "domaine": ["leadership"],
+    "langue": "fr"
+  },
+  {
+    "id": "q100",
+    "texte": "Que ta lumière brille si fort que les autres trouvent leur chemin. C'est cela, Yelen.",
+    "auteur": "Yelen",
+    "origine": "afrique",
+    "domaine": ["leadership", "resilience", "innovation"],
+    "langue": "fr"
+  }
+]
